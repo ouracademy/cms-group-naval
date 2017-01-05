@@ -12,7 +12,7 @@ exports = module.exports = function(req, res) {
 	
 	locals.section = 'home';
 	locals.meetup = {};
-	locals.page.title = 'Welcome to SydJS';
+	locals.page.title = 'Grupo naval';
 	
 	locals.rsvpStatus = {};
 
