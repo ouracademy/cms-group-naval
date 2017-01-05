@@ -4,6 +4,7 @@ Group Naval
 ## The Group Naval Website.
 
 Initially built in two and a half days by the team at [Thinkmill](http://www.thinkmill.com.au) as a demo of what [KeystoneJS](http://keystonejs.com) can do, it's now a showcase for the Sydney Javascript community.
+Here put content
 
 ## Get Involved!
 
