@@ -73,3 +73,6 @@ The first time you run the site, the homepage will warn you that it expects ther
 You'll probably want to add some other content too (blog post, members, etc) to get all the pages looking right.
 
 ... happy hacking!
+
+#### Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ouracademy/cms-group-naval)
