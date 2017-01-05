@@ -1,0 +1,26 @@
+.with-image{
+    background: url(/images/team-hidrocontest.jpg);
+    padding-top: 3em;
+    padding-bottom: 18em;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(70%);
+}
+.hero-meetup--next .hero-background {
+    background: url(/images/banner/banner_1.jpg) no-repeat center center / cover;
+}
+.site-branding>img{width:100%;height:46px}
+.site-branding {
+    width: 130px;
+}
+.home-about h2 {
+    color: white;
+}
+.home-about a {
+    font-size: 25px;
+    color: white;
+}
